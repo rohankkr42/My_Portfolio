@@ -1,0 +1,3 @@
+Step 1: Setup jenkins up...
+    * Official Website:- https://www.jenkins.io/doc/book/installing/linux/
+    <img width="1348" height="899" alt="image" src="https://github.com/user-attachments/assets/c46b628c-d549-4fbb-992a-b5bd5d80ebc9" />
